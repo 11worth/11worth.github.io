@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Node modules (if using JS tooling)
+node_modules/
+
+# Output folders
+dist/
+_site/
+
+# Environment files
+.env
